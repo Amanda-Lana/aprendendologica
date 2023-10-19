@@ -1,2 +1,3 @@
 # aprendendologica
-primeiro curso de lógica, projeto desenvolvido com o curso da alura
+primeiro curso de lógica, projeto desenvolvido com o curso da alura.
+#JavaScript
